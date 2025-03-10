@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProFit</string>
+    <string name="login"> <u>Login</u></string>
+    <string name="Signup"> <u>Signup</u></string>
+    <string name="email">*Enter email  </string>
+    <string name="password">  *Enter password</string>
+</resources>
